@@ -3,7 +3,7 @@
 
 PHPTelnet 1.1
 
-by Antone Roundy
+by Sikander Mann
 
 adapted from code found on the PHP website
 
