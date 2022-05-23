@@ -4,7 +4,7 @@
 	$telnet->show_connect_error=0;
 	$result = $telnet->Connect('Server Ip',PORT,'Password');
 	if ($result == 0){
-		$telnet->DoCommand('admin add steam_76561198032704712 0', $result);
+		$telnet->DoCommand('admin add steam_ID 0', $result);
 		print_r($result);
 		echo "Telnet Server is working!";	
 	}else{
